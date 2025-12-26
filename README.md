@@ -26,3 +26,9 @@ Os assets visuais e sonoros utilizados neste projeto foram obtidos de fontes gra
 - Música: Pixabay Sound
 
 Todos os assets foram utilizados conforme suas respectivas licenças.
+
+### Tilesets
+O sistema de Tilemap da Unity foi utilizado para construção dos níveis.
+Scripts foram aplicados apenas em tiles interativos, como áreas de dano
+e plataformas atravessáveis, evitando código desnecessário.
+
