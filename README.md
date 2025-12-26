@@ -42,6 +42,11 @@ O jogo utiliza um AudioManager centralizado para reprodução
 de efeitos sonoros e música, com chamadas defensivas para
 evitar falhas em tempo de execução.
 
+As imagens apresentadas representam uma simulação visual do gameplay,
+uma vez que o projeto foi desenvolvido conceitualmente e em código,
+sem possibilidade de execução local do build.
+
+
 
 
 
