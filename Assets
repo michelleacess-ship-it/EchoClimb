@@ -1,0 +1,10 @@
+Assets/
+├── Sprites/
+│   ├── Player/
+│   ├── Enemies/
+│   ├── Tilesets/
+│   └── Collectables/
+├── Audio/
+│   ├── SFX/
+│   └── Music/
+├── UI/
