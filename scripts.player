@@ -1,0 +1,6 @@
+Scripts/
+└── Player/
+    ├── PlayerController.cs
+    ├── PlayerAnimation.cs
+    ├── PlayerClimb.cs
+    └── PlayerHealth.cs
