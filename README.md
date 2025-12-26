@@ -42,6 +42,13 @@ O jogo utiliza um AudioManager centralizado para reprodução
 de efeitos sonoros e música, com chamadas defensivas para
 evitar falhas em tempo de execução.
 
+### 📀 Créditos de Áudio
+
+Efeitos sonoros gratuitos usados no projeto:
+- Sons de jogo e SFX retirados de **Mixkit** — https://mixkit.co/free-sound-effects/game/ :contentReference[oaicite:5]{index=5}
+- Efeitos de pulo gratuitos em **Mixkit** — https://mixkit.co/free-sound-effects/jump/ :contentReference[oaicite:6]{index=6}
+- Sons retro e interface em **Mixkit** — https://mixkit.co/free-sound-effects/arcade/ :contentReference[oaicite:7]{index=7}
+
 As imagens apresentadas representam uma simulação visual do gameplay,
 uma vez que o projeto foi desenvolvido conceitualmente e em código,
 sem possibilidade de execução local do build.
