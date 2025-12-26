@@ -32,3 +32,9 @@ O sistema de Tilemap da Unity foi utilizado para construção dos níveis.
 Scripts foram aplicados apenas em tiles interativos, como áreas de dano
 e plataformas atravessáveis, evitando código desnecessário.
 
+### Coletáveis
+O jogo conta com coletáveis de pontuação e itens de vida,
+implementados através de colisão com trigger e integração
+com o GameManager.
+
+
