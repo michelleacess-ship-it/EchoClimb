@@ -37,4 +37,10 @@ O jogo conta com coletáveis de pontuação e itens de vida,
 implementados através de colisão com trigger e integração
 com o GameManager.
 
+### Áudio
+O jogo utiliza um AudioManager centralizado para reprodução
+de efeitos sonoros e música, com chamadas defensivas para
+evitar falhas em tempo de execução.
+
+
 
